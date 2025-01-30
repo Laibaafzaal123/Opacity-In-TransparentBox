@@ -1,0 +1,14 @@
+body{
+   background-image: url(./background1.jpg) ;
+   }
+div p{
+background-color: black;
+ padding: 100px;
+margin-top: 200px;
+font-size: larger;
+border: 20px solid rgba(238, 211, 211, 0.686);
+}
+div>p{
+    font-weight: bold;
+    background-color: bisque;
+}
